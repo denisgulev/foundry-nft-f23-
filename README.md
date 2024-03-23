@@ -84,6 +84,8 @@ Re-import the NFT in Metamask using:
 - contract address
 - token id
 
+![alt text](https://github.com/denisgulev/foundry-nft-f23-/blob/main/image.png)
+
 #
 
 The constructor will receive 2 imageURIs to use as options for the tokens that will be minted.
